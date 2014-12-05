@@ -5,6 +5,6 @@ includes[] = https://raw.github.com/groovehunter/drupal/master/drupal-org-core.m
 
 projects[ghcng][type] = profile
 projects[ghcng][download][type] = git
-projects[ghcng][download][url] = file:///srv/projektstuff/gitlocal/ghcng
+projects[ghcng][download][url] = https://github.org/groovehunter/master/ghcng
 projects[ghcng][download][branch] = master
 
