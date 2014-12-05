@@ -1,0 +1,37 @@
+name = ghcng
+core = 7.x
+description = community work and live install profile
+
+; Core
+dependencies[] = book
+dependencies[] = block
+dependencies[] = dblog
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = list
+dependencies[] = locale
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = path
+dependencies[] = taxonomy
+
+; Contrib
+dependencies[] = admin_menu
+;dependencies[] = admin_views
+;dependencies[] = calendar
+dependencies[] = context
+dependencies[] = context_ui
+dependencies[] = ctools
+dependencies[] = date
+dependencies[] = date_popup
+dependencies[] = devel
+dependencies[] = dhtml_menu
+dependencies[] = entity
+dependencies[] = entityreference
+dependencies[] = entity_view_mode
+dependencies[] = features
+dependencies[] = strongarm
+dependencies[] = taxonomy_manager
+dependencies[] = views
+dependencies[] = views_bulk_operations
+dependencies[] = views_ui
