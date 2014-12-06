@@ -30,6 +30,7 @@ dependencies[] = entity
 dependencies[] = entityreference
 dependencies[] = entity_view_mode
 dependencies[] = features
+dependencies[] = markdown
 dependencies[] = strongarm
 dependencies[] = taxonomy_manager
 dependencies[] = views
