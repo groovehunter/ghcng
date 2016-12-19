@@ -3,7 +3,7 @@ core = 7.x
 description = community work and live install profile
 
 ; Core
-dependencies[] = book
+;dependencies[] = book
 dependencies[] = block
 dependencies[] = dblog
 dependencies[] = field_ui
@@ -12,25 +12,31 @@ dependencies[] = list
 dependencies[] = locale
 dependencies[] = menu
 dependencies[] = number
+dependencies[] = 
 dependencies[] = path
 dependencies[] = taxonomy
+dependencies[] = text
+
 
 ; Contrib
 dependencies[] = admin_menu
 ;dependencies[] = admin_views
-;dependencies[] = calendar
-dependencies[] = context
-dependencies[] = context_ui
+dependencies[] = calendar
+;dependencies[] = context
+;dependencies[] = context_ui
 dependencies[] = ctools
 dependencies[] = date
 dependencies[] = date_popup
 dependencies[] = devel
-dependencies[] = dhtml_menu
+;dependencies[] = dhtml_menu
+dependencies[] = email
 dependencies[] = entity
 dependencies[] = entityreference
 dependencies[] = entity_view_mode
 dependencies[] = features
+dependencies[] = link
 dependencies[] = markdown
+dependencies[] = phone
 dependencies[] = strongarm
 dependencies[] = taxonomy_manager
 dependencies[] = views
