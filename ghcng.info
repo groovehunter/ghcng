@@ -12,8 +12,7 @@ dependencies[] = list
 dependencies[] = locale
 dependencies[] = menu
 dependencies[] = number
-dependencies[] = 
-dependencies[] = path
+;dependencies[] = path
 dependencies[] = taxonomy
 dependencies[] = text
 
