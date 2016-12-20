@@ -7,7 +7,7 @@ defaults[projects][subdir] = contrib
 ;projects[][version] = ""
 
 ; All modules always wanted
-projects[admin_menu][version] = "3.0-rc4"
+projects[admin_menu][version] = "3.0-rc5"
 projects[admin_views][version] = "1.1"
 projects[advanced_help][version] = "1.0"
 projects[calendar][version] = "3.4"
