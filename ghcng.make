@@ -18,9 +18,9 @@ projects[ctools][version] = "1.12"
 projects[date][version] = "2.9"
 projects[devel][version] = "1.5"
 ;projects[dhtml_menu][version] = "1.0-beta1"
-;projects[email][version] = "1.3"
-;projects[link] [version] = "1.4"
-;projects[phone][version] = "1.0-beta"
+projects[email][version] = "1.3"
+projects[link] [version] = "1.4"
+projects[phone][version] = "1.0-beta"
 projects[entity][version] = "1.8"
 projects[entity_view_mode][version] = "1.0-rc1"
 projects[entityreference][version] = "1.2"
@@ -59,7 +59,6 @@ projects[views_bulk_operations][version] = "3.3"
 ;ghc features
 ;ghc_adressbuch   7.x-1.2     
 ;ghc_container    7.x-1.1     
-;ghc_formate		7.x-1.0     
 ;ghc_groups 		7.x-1.0     
 ;ghc_neuigkeiten   	7.x-1.2     
 ;ghc_rechte_allgemein   	7.x-1.1     
